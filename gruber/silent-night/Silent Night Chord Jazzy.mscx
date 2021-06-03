@@ -220,6 +220,7 @@
             </Tempo>
           <Harmony>
             <root>14</root>
+            <name>maj7</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -247,6 +248,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            <name>maj7</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -259,6 +264,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>18</root>
+            <name>m7</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>quarter</durationType>
@@ -285,6 +294,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>17</root>
+            <name>m7</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -333,6 +346,7 @@
         <voice>
           <Harmony>
             <root>14</root>
+            <name>maj7</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -369,6 +383,7 @@
         <voice>
           <Harmony>
             <root>13</root>
+            <name>maj7</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -416,6 +431,7 @@
         <voice>
           <Harmony>
             <root>14</root>
+            <name>maj7</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -457,6 +473,7 @@
         <voice>
           <Harmony>
             <root>13</root>
+            <name>maj7</name>
             </Harmony>
           <Chord>
             <durationType>half</durationType>
@@ -504,6 +521,7 @@
         <voice>
           <Harmony>
             <root>14</root>
+            <name>maj7</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -531,6 +549,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>13</root>
+            <name>maj7</name>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -595,7 +617,8 @@
       <Measure>
         <voice>
           <Harmony>
-            <root>14</root>
+            <root>17</root>
+            <name>m7</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -609,6 +632,9 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <root>14</root>
+            </Harmony>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -623,7 +649,7 @@
         <voice>
           <Harmony>
             <root>14</root>
-            <base>15</base>
+            <base>18</base>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -729,502 +755,6 @@
             <sigN>3</sigN>
             <sigD>4</sigD>
             </TimeSig>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>31</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>31</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -1233,104 +763,6 @@
               <tpc>14</tpc>
               </Note>
             <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
@@ -1338,93 +770,15 @@
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
             <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -1433,57 +787,8 @@
               <tpc>14</tpc>
               </Note>
             <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>41</pitch>
-              <tpc>13</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>57</pitch>
-              <tpc>17</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
               </Note>
             <Note>
               <pitch>53</pitch>
@@ -1498,37 +803,12 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
-            <durationType>quarter</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
               </Note>
             <Note>
               <pitch>52</pitch>
@@ -1538,54 +818,18 @@
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
             <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
               <pitch>48</pitch>
               <tpc>14</tpc>
@@ -1598,54 +842,22 @@
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
             <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
-            <durationType>quarter</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
-              <pitch>31</pitch>
-              <tpc>15</tpc>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
               </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
@@ -1658,13 +870,14 @@
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
@@ -1686,34 +899,249 @@
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
-            <durationType>quarter</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
-              <pitch>31</pitch>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              </Note>
             </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
           <Chord>
-            <durationType>quarter</durationType>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            <Note>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
               <pitch>50</pitch>
               <tpc>16</tpc>
@@ -1731,168 +1159,10 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>36</pitch>
-              <tpc>14</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>48</pitch>
-              <tpc>14</tpc>
-              </Note>
-            <Note>
-              <pitch>52</pitch>
-              <tpc>18</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
@@ -1901,6 +1171,26 @@
               <tpc>15</tpc>
               </Note>
             <Note>
+              <pitch>47</pitch>
+              <tpc>19</tpc>
+              </Note>
+            <Note>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              </Note>
+            <Note>
+              <pitch>53</pitch>
+              <tpc>13</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
               <pitch>48</pitch>
               <tpc>14</tpc>
               </Note>
@@ -1908,102 +1198,82 @@
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
-            </Chord>
-          </voice>
-        </Measure>
-      <Measure>
-        <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
-          <Spanner type="Pedal">
-            <Pedal>
-              <endHookType>1</endHookType>
-              <beginText>&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;</beginText>
-              <continueText>(&lt;sym&gt;keyboardPedalPed&lt;/sym&gt;)</continueText>
-              </Pedal>
-            <next>
-              <location>
-                <measures>1</measures>
-                </location>
-              </next>
-            </Spanner>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
             <Note>
               <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
             <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
-              </Note>
-            </Chord>
-          <Chord>
-            <durationType>quarter</durationType>
-            <Note>
-              <pitch>50</pitch>
-              <tpc>16</tpc>
-              </Note>
-            <Note>
-              <pitch>53</pitch>
-              <tpc>13</tpc>
-              </Note>
-            <Note>
-              <pitch>55</pitch>
-              <tpc>15</tpc>
-              </Note>
-            <Note>
-              <pitch>59</pitch>
-              <tpc>19</tpc>
+              <pitch>57</pitch>
+              <tpc>17</tpc>
               </Note>
             </Chord>
           </voice>
         </Measure>
       <Measure>
         <voice>
-          <Spanner type="Pedal">
-            <prev>
-              <location>
-                <measures>-1</measures>
-                </location>
-              </prev>
-            </Spanner>
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
             <Note>
-              <Spanner type="Tie">
-                <Tie>
-                  </Tie>
-                <next>
-                  <location>
-                    <measures>1</measures>
-                    </location>
-                  </next>
-                </Spanner>
-              <pitch>43</pitch>
+              <pitch>48</pitch>
+              <tpc>14</tpc>
+              </Note>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
               <tpc>15</tpc>
               </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>52</pitch>
+              <tpc>18</tpc>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            <Note>
+              <pitch>60</pitch>
+              <tpc>14</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
+            <Note>
+              <pitch>50</pitch>
+              <tpc>16</tpc>
+              </Note>
+            <Note>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
+            <Note>
+              <pitch>59</pitch>
+              <tpc>19</tpc>
+              </Note>
+            </Chord>
+          </voice>
+        </Measure>
+      <Measure>
+        <voice>
+          <Chord>
+            <dots>1</dots>
+            <durationType>half</durationType>
             <Note>
               <Spanner type="Tie">
                 <Tie>
@@ -2030,6 +1300,19 @@
               <pitch>52</pitch>
               <tpc>18</tpc>
               </Note>
+            <Note>
+              <Spanner type="Tie">
+                <Tie>
+                  </Tie>
+                <next>
+                  <location>
+                    <measures>1</measures>
+                    </location>
+                  </next>
+                </Spanner>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
+              </Note>
             </Chord>
           </voice>
         </Measure>
@@ -2038,17 +1321,6 @@
           <Chord>
             <dots>1</dots>
             <durationType>half</durationType>
-            <Note>
-              <Spanner type="Tie">
-                <prev>
-                  <location>
-                    <measures>-1</measures>
-                    </location>
-                  </prev>
-                </Spanner>
-              <pitch>43</pitch>
-              <tpc>15</tpc>
-              </Note>
             <Note>
               <Spanner type="Tie">
                 <prev>
@@ -2070,6 +1342,17 @@
                 </Spanner>
               <pitch>52</pitch>
               <tpc>18</tpc>
+              </Note>
+            <Note>
+              <Spanner type="Tie">
+                <prev>
+                  <location>
+                    <measures>-1</measures>
+                    </location>
+                  </prev>
+                </Spanner>
+              <pitch>55</pitch>
+              <tpc>15</tpc>
               </Note>
             </Chord>
           </voice>
