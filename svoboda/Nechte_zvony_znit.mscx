@@ -345,11 +345,15 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks>960</ticks>
+              <ticks_f>2/4</ticks_f>
               <text>hou</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
+              <ticks>960</ticks>
+              <ticks_f>2/4</ticks_f>
               <text>hou</text>
               </Lyrics>
             <Note>
@@ -552,10 +556,14 @@
           <Chord>
             <durationType>whole</durationType>
             <Lyrics>
+              <ticks>1920</ticks>
+              <ticks_f>4/4</ticks_f>
               <text>snů</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
+              <ticks>1920</ticks>
+              <ticks_f>4/4</ticks_f>
               <text>dnů</text>
               </Lyrics>
             <Note>
@@ -794,11 +802,15 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks>960</ticks>
+              <ticks_f>2/4</ticks_f>
               <text>hou</text>
               </Lyrics>
             <Lyrics>
               <no>1</no>
               <syllabic>end</syllabic>
+              <ticks>960</ticks>
+              <ticks_f>2/4</ticks_f>
               <text>hou</text>
               </Lyrics>
             <Note>
@@ -1273,6 +1285,8 @@
           <Chord>
             <durationType>whole</durationType>
             <Lyrics>
+              <ticks>1920</ticks>
+              <ticks_f>4/4</ticks_f>
               <text>dál</text>
               </Lyrics>
             <Note>
@@ -1448,6 +1462,8 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks>960</ticks>
+              <ticks_f>2/4</ticks_f>
               <text>sník</text>
               </Lyrics>
             <Note>
@@ -1608,6 +1624,8 @@
           <Chord>
             <durationType>whole</durationType>
             <Lyrics>
+              <ticks>1920</ticks>
+              <ticks_f>4/4</ticks_f>
               <text>žít</text>
               </Lyrics>
             <Note>
@@ -1796,6 +1814,8 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks>960</ticks>
+              <ticks_f>2/4</ticks_f>
               <text>pník</text>
               </Lyrics>
             <Note>
@@ -2164,6 +2184,8 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
+              <ticks>1920</ticks>
+              <ticks_f>4/4</ticks_f>
               <text>znít</text>
               </Lyrics>
             <Spanner type="Slur">
